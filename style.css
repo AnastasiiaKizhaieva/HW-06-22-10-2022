@@ -3,9 +3,10 @@
 		}
 		
 		.content {
-		margin-left: 176px;
+		//margin-left: 176px;
 		padding: 20px 24px 24px 24px;
-		border: 1px 0px 1px 1px
+		border: 1px 0px 1px 1px;
+		width: 1168px;
 		}		 
 		
 		ul {
