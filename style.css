@@ -1,0 +1,94 @@
+		//html, body {
+		font-family: sans-serif;
+		}
+		
+		.content {
+		margin-left: 176px;
+		padding: 20px 24px 24px 24px;
+		border: 1px 0px 1px 1px
+		}		 
+		
+		ul {
+		padding:0;
+		}
+	
+		li {
+		list-style: none
+		}
+		
+		a {
+		text-decoration: none
+		}
+		
+		a:hover {text-decoration: underline}
+		
+		//зміст
+		.contents {
+		width: 50%;
+		border: 1px solid #a2a9b1;
+		background-color: #f8f9fa; 
+		}
+		
+		.table {
+		border:1px solid #a2a9b1;
+		background-color:#f8f9fa;
+		float:right;
+		}
+		
+		.table-photo {
+		padding-left: 18px;
+		padding-right: 18px
+		}
+		
+		.table-name {
+		text-align: center
+		}
+		
+		th, td {
+		text-align: left;
+		}
+		
+		.table-header{
+		font-size:18px;
+		text-align: center
+		}
+		
+		.table-head {
+		text-align: center;
+		border-top: 1px solid #aaa;
+		background: #e6e6fa;
+		margin: 0px;
+		}
+		
+		.table-head-p {
+		margin: 0px;
+		}
+		
+		.table-head-img {
+		margin-top: 3px;	
+		}
+		
+		.table-head-years {
+		text-align: center
+		}
+		
+		.vertical {
+		vertical-align: top;
+		}
+		
+		.photo-left {
+		border:1px solid #a2a9b1;
+		background-color:#f8f9fa;
+		float:left;
+		width: 210px;
+		height: 224px;
+		margin: 0.5em 1.4em 1.3em 0;
+		
+		}
+		
+		.photo-right {
+		border:1px solid #a2a9b1;
+		background-color:#f8f9fa;
+		float:right;
+		margin: 0.5em 0 1.3em 1.4em
+		}
